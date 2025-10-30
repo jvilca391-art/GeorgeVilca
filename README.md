@@ -1,5 +1,4 @@
-Bienvenido(a) 👋
-
+##¡Hola, soy George Alberto Vilca!
 
 Sobre mi
 ⭐ Data Analytics ⭐
