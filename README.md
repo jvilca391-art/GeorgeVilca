@@ -1,4 +1,6 @@
-##¡Hola, soy George Alberto Vilca!
+# 👋 ¡Hola, soy George Alberto Vilca!
+### 📊 Data Analytics | 💻 Business Intelligence | ☁️ Cloud Computing
+
 
 Sobre mi
 ⭐ Data Analytics ⭐
